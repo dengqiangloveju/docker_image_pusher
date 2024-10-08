@@ -1,2 +1,2 @@
 mirrorgooglecontainers/kubernetes-zookeeper:1.0-3.4.10
-apache/kafka:3.8.0
+cloudtrackinc/kubernetes-kafka:0.10.0.1
