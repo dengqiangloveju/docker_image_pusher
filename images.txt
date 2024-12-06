@@ -1,5 +1,5 @@
-k8s.gcr.io/kube-apiserver:v1.24.2
-k8s.gcr.io/kube-scheduler:v1.24.2
-k8s.gcr.io/kube-proxy:v1.24.2
-k8s.gcr.io/kube-controller-manager:v1.24.2
-k8s.gcr.io/pause:3.6
+quay.io/cephcsi/cephcsi:v3.12.3
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.11.1
+registry.k8s.io/sig-storage/csi-provisioner:v5.0.1
+registry.k8s.io/sig-storage/csi-resizer:v1.11.1
+registry.k8s.io/sig-storage/csi-snapshotter:v8.0.1
